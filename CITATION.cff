@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: George Dawes GitHub Repository
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: George
+    family-names: Dawes
+    email: G.Dawes@lboro.ac.uk
+    affiliation: Loughborough University
+    orcid: 'https://orcid.org/0000-0002-1052-8592'
+url: 'https://www.linktr.ee/GeorgeDawes'
+keywords:
+  - Energy Flexibility
+  - Thermal Demand Response
+  - Flexibility function
+  - Built Environment
+  - Modelica
+license: CC-BY-4.0
