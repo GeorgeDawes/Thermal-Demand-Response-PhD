@@ -1,23 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-title: George Dawes GitHub Repository
+title: >-
+  Building Energy Simulation Test - Generation Simulation
+  and Reporting (BESTEST-GSR)
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: George
-    family-names: Dawes
-    email: G.Dawes@lboro.ac.uk
-    affiliation: Loughborough University
-    orcid: 'https://orcid.org/0000-0002-1052-8592'
-repository-code: >-
-  https://github.com/GeorgeDawes/Thermal-Demand-Response-PhD
-url: 'https://www.linktr.ee/GeorgeDawes'
-keywords:
-  - Energy Flexibility
-  - Thermal Demand Response
-  - Flexibility Function
-  - Built Environment
-  - Modelica
-license: CC-BY-4.0
-date-released: '2022-12-31'
+  - given-names: 'David '
+    family-names: Goldwasser
+  - given-names: Tim
+    family-names: Coleman
+  - given-names: 'Edwin '
+    family-names: Lee
+identifiers:
+  - type: url
+    value: 'https://github.com/NREL/BESTEST-GSR'
+repository-code: 'https://github.com/NREL/BESTEST-GSR'
+abstract: >-
+  The purpose of this repository is to generate BESTEST test
+  case models, run simulations, and populate data for ASHRAE
+  Standard 140 reporting spreadsheets for EnergyPlus based
+  whole building simulation tools. It was originally setup
+  for 2014 version of Standard 140. In May of 2022 it was
+  updated to the 2020 version of Standard 140. This update
+  included updates and additions to existing test suites,
+  the bulk of which was in Section 5.2 (Building Thermal
+  Envelope and Fabric Load Tests). We did not add Section
+  5.5 Airside HVAC Equipment Performance, but we hope to add
+  that later in 2022. At some point we also hope to add
+  Section 5.2.4 ground modeling, which is currently
+  excluded.
