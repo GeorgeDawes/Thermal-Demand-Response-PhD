@@ -9,7 +9,6 @@ message: >-
 type: software
 authors:
   - given-names: George
-    name-particle: T.
     family-names: Dawes
     email: George-dawes@hotmail.co.uk
     affiliation: Loughborough University
